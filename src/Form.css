@@ -1,0 +1,23 @@
+.form-box{
+    display: flex;
+    flex-direction: column;
+    padding: 20px 40px;
+    border-radius: 10px;
+    gap: 18px;
+    box-shadow: 0 0 10px;
+}
+
+.form-box h1{
+    font-size: 30px;
+    margin: 5px;   
+    text-align: center;
+}
+
+.form-box h2{
+    margin: 8px 0;
+    
+}
+
+.form-box input{
+    width: 100%;
+}

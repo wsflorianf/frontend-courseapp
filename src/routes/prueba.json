@@ -1,0 +1,140 @@
+{
+    "results": {
+        "coursera": [
+            {
+                "CourseLink": "https://www.coursera.org/learn/react-basics",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/2e/289c392ddc43f2a1c5840cdb8d0cec/iOS-dev8.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+                "Score": "4.7(1.8K reviews)",
+                "Title": "React Basics"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/learn/learn-react",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/34/28d7b368e64d53bb65c37a0995cf4b/learn-react.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+                "Score": "4.7(162 reviews)",
+                "Title": "Learn React"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/learn/advanced-react",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/bf/0b0c4e3cb74bd59cf0eb5d448e355a/front-end-dev6.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+                "Score": "4.6(986 reviews)",
+                "Title": "Advanced React"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/specializations/meta-react-native",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/22/fd0bb5fa6640abad2df3b86ed9f13e/front-end-dev6.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+                "Score": "4.7(8.3K reviews)",
+                "Title": "Meta React Native"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/professional-certificates/meta-front-end-developer",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ed/d25c0d25114924a34754928dbf8273/Front-end-dev-ProCert.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+                "Score": "4.7(18K reviews)",
+                "Title": "Meta Front-End Developer"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/learn/developing-frontend-apps-with-react",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/1e/2bda9c79d7460e9659058a3498b759/React.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=265&h=216&fit=crop&q=50",
+                "Score": "4.3(404 reviews)",
+                "Title": "Developing Front-End Apps with React"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/projects/build-first-react-website",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/aa/bf8dfb920e40c1834b7b0c10ec84cf/square.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+                "Score": "4.4(393 reviews)",
+                "Title": "Build Your First React Website"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/specializations/build-dynamic-website",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c4/d0c716e7f946b799b94d4e0e88c572/Build-Dynamic-Website-using-HTML-CSS-JavaScript-jQuery-AngularJS-and-ReactR.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+                "Score": "4.2(19 reviews)",
+                "Title": "Build Website with HTML, JavaScript, AngularJS, and React"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/learn/frontend-development-using-react",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/b6/d57b7e3dcc45f9a0496e698e61b124/Frontend-Development-using-React.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+                "Score": "4.0(21 reviews)",
+                "Title": "Frontend Development using React"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/learn/react-native-course",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/88/de3111c1ff4f2e91a68ca29615c333/Android-dev9.png?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+                "Score": "4.8(249 reviews)",
+                "Title": "React Native"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/projects/build-first-react-website-2",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/67/7c5bcc7b5941aeb85c5554d7174b65/square.jpg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+                "Score": "4.7(55 reviews)",
+                "Title": "Build Your First React Website (Part II)"
+            },
+            {
+                "CourseLink": "https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer",
+                "Description": "",
+                "Image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera_assets.s3.amazonaws.com/collections/product-images/ibm-full-stack-cloud-developer.jpeg?auto=format%2Ccompress&dpr=2&blur=200&px=8&max-w=265",
+                "Score": "4.6(44K reviews)",
+                "Title": "IBM Full Stack Software Developer"
+            }
+        ],
+        "domestika": [
+            {
+                "CourseLink": "https://www.domestika.org/es/courses/1620-copywriting-para-redes-sociales",
+                "Description": "Aprende a redactar textos eficaces para atraer e impactar a la audiencia de tu marca",
+                "Image": "https://cdn.domestika.org/c_fill,f_auto,pg_1,w_480,ar_16:9/v1607533137/course-covers/000/001/620/1620-original.jpg?1607533137",
+                "Score": "",
+                "Title": "Copywriting para redes sociales"
+            },
+            {
+                "CourseLink": "https://www.domestika.org/es/courses/3337-escritura-de-vida-para-principiantes-cuenta-tu-propia-historia",
+                "Description": "Descubre las técnicas de escritura para investigar, redactar y editar una pieza narrativa que enganche a los lectores hasta la última frase, basándote en tus recuerdos y experiencias",
+                "Image": "https://cdn.domestika.org/c_fill,f_auto,pg_1,w_480,ar_16:9/v1643623650/course-covers/000/003/337/3337-original.jpg?1643623650",
+                "Score": "",
+                "Title": "Escritura de vida para principiantes:  cuenta tu propia historia"
+            },
+            {
+                "CourseLink": "https://www.domestika.org/es/courses/3279-fundamentos-del-copywriting-para-newsletters",
+                "Description": "Aprende a redactar una newsletter eficaz para atraer a tus lectores, comunicarte con seguridad e impulsar tu negocio",
+                "Image": "https://cdn.domestika.org/c_fill,f_auto,pg_1,w_480,ar_16:9/v1636469762/course-covers/000/003/279/3279-original.jpg?1636469762",
+                "Score": "",
+                "Title": "Fundamentos del copywriting para newsletters"
+            },
+            {
+                "CourseLink": "https://www.domestika.org/es/courses/3587-storytelling-para-escribir-discursos-motivadores",
+                "Description": "Aprende a redactar y dar discursos explorando las bases del storytelling y usa tus palabras para conectar con tu audiencia, inspirarla y motivarla",
+                "Image": "https://cdn.domestika.org/c_fill,f_auto,pg_1,w_480,ar_16:9/v1671445315/course-covers/000/003/587/3587-original.jpg?1671445315",
+                "Score": "",
+                "Title": "Storytelling para escribir discursos motivadores"
+            },
+            {
+                "CourseLink": "https://www.domestika.org/es/courses/3667-introduccion-a-la-escritura-de-guiones-para-cine",
+                "Description": "Aprende los fundamentos para redactar un proyecto profesional con la idea, la sinopsis y los personajes de tu próxima película",
+                "Image": "https://cdn.domestika.org/c_fill,f_auto,pg_1,w_480,ar_16:9/v1653064139/course-covers/000/003/667/3667-original.jpg?1653064139",
+                "Score": "",
+                "Title": "Introducción a la escritura de guiones para cine"
+            },
+            {
+                "CourseLink": "https://www.domestika.org/es/courses/4514-produccion-de-podcast-del-concepto-al-marketing",
+                "Description": "Domina la creación de pódcast. Aprende a redactar guiones, grabar, editar y promocionar tu pódcast.",
+                "Image": "https://cdn.domestika.org/c_fill,f_auto,pg_1,w_480,ar_16:9/v1708619242/course-covers/000/004/514/4514-original.jpg?1708619242",
+                "Score": "",
+                "Title": "Producción de pódcast: del concepto al marketing"
+            }
+        ],
+        "platzi": []
+    },
+    "times": {
+        "coursera": 11.717771,
+        "domestika": 25.927472,
+        "platzi": 50.132142
+    }
+}
