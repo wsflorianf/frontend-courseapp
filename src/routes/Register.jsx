@@ -15,16 +15,22 @@ import { useForm } from 'react-hook-form'
 import { Link } from 'react-router-dom'
 import { VisibilityOff } from '@mui/icons-material'
 import { Visibility } from '@mui/icons-material'
+import DialogError from '../components/DialogError'
 
 export default function Register() {
   const [showPassword, setShowPassword] = useState(false)
   const [loading, setLoading] = useState(false)
+  const [error, setError] = useState({state: false, message: ''})
   const navigate = useNavigate()
 
   const bcolor = useTheme().palette.primary.main
 
   const handleClickShowPassword = () => {
     setShowPassword(!showPassword)
+  }
+
+  const onClose=()=>{
+    setError({state: false, message: ''})
   }
 
   const {
@@ -40,7 +46,17 @@ export default function Register() {
     setLoading(true)
     await createUserWithEmailAndPassword(auth, data.email, data.password)
       .then(() => navigate('/search'))
-      .catch((err) => console.log(err.code))
+      .catch((err) => {
+        let messageError = ''
+        console.log(err.code)
+        if(err.code==='auth/network-request-failed'){
+          messageError='Sin conexión al servidor'
+        }
+        if(err.code==='auth/email-already-in-use'){
+          messageError='Ya existe un usuario con el email ingresado'
+        }
+        setError({state: true, message: messageError})
+      })
       .finally(() => {
         setLoading(false)
       })
@@ -130,6 +146,7 @@ export default function Register() {
         </Link>
       </div>
       {loading && <Loading />}
+      <DialogError open={error.state} closeError={onClose}>{error.message}</DialogError>
     </Box>
   )
 }

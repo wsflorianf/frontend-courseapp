@@ -65,7 +65,15 @@ export default function Login() {
         navigate('/search')
       })
       .catch((err) => {
-        setError({state: true, message: err.message})
+        let messageError = ''
+        console.log(err.code) 
+        if(err.code==='auth/invalid-credential'){
+          messageError='Credenciales inválidas'
+        }
+        if(err.code==='auth/network-request-failed'){
+          messageError='Sin conexión al servidor'
+        }
+        setError({state: true, message: messageError})
       })
       .finally(() => {
         setLoading(false)
