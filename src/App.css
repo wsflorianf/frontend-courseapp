@@ -87,18 +87,26 @@ nav li {
   height: 50px;
 }
 
+#shadow-box{
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+}
+
 #accesibility{
   z-index: 50;
   position: fixed;
-  right: -235px;
-  bottom: 20px;
   display: flex;
+  align-self: end;
   align-items: center;
-  transition: all 1s;
+  transition: 1s all;
+  bottom: 20px;
+  right: -235px;
 }
 
 #accesibility:hover{
-  right: 0px;
+  right: 0;  
 }
 
 #tools{
@@ -107,10 +115,7 @@ nav li {
   gap: 10px;
   transition: all 1s;
   border-radius: 5px;
-}
-
-#tools:hover{
-  box-shadow: 0 0 10px white;
+  box-shadow: 0 0 6px white;
 }
 
 
@@ -128,6 +133,7 @@ nav li {
   align-items: center;
   padding: 50px;
   height: 80vh;
+  width: 100vw;
 }
 
 #search-container { 
@@ -207,6 +213,12 @@ main {
   text-decoration: none;
 }
 
+.score-course{
+  background-color: rgba(126, 126, 126, 0.8);
+  box-shadow: 0 0 6px 1px rgb(126, 126, 126     );
+  border-radius: 2px;
+}
+
 /* Loader styles start*/
 #load-screen {
   display: flex;
@@ -281,6 +293,11 @@ animation-delay: 1s;
   position: absolute;
   bottom: -20px;
   left: 46px;
+}
+
+#searchFilters{
+  display: flex;
+  gap: 10px;
 }
 
 @keyframes animloader {
